@@ -7,4 +7,8 @@
     <Copyright>Kenji Mouri (MouriNaruto)</Copyright>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.WebSockets" Version="2.2.1" />
+  </ItemGroup>
+
 </Project>
