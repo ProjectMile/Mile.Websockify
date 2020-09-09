@@ -7,4 +7,8 @@
     <Copyright>Kenji Mouri (MouriNaruto)</Copyright>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Mile.Websockify\Mile.Websockify.csproj" />
+  </ItemGroup>
+
 </Project>
