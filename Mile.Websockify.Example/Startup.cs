@@ -1,7 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -35,7 +31,7 @@ namespace Mile.Websockify.Example
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseWebsockify("/websockify", "192.168.50.120", 5900);
+            app.UseWebsockify("/websockify", "127.0.0.1", 5900);
 
             app.UseDefaultFiles();
 
