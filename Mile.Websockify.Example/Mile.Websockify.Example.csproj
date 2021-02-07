@@ -1,10 +1,11 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>net5.0</TargetFramework>
     <Version>0.1.0</Version>
     <Authors>Kenji Mouri (MouriNaruto)</Authors>
     <Copyright>Kenji Mouri (MouriNaruto)</Copyright>
+    <UserSecretsId>4fde2a74-8df9-4a01-be5d-79bfddbe8197</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
