@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2020 Naruto Mouri (Kenji Mouri)
+Copyright (c) Kenji Mouri. All rights reserved.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
